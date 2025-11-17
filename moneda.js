@@ -1,4 +1,3 @@
-
 const apiURL = 'https://v6.exchangerate-api.com/v6/3ddf98120f6cda556e26cbbd/latest/USD';
 
         async function obtenerTiposDeCambio() {
